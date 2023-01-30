@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://3.bp.blogspot.com/-Bmq3YncJceQ/WEu597N68vI/AAAAAAAAAq8/fk-l4f-Mrb02ZvSiH8SY6kfUg9doFgU9gCLcB/s1600/hello_world.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprograming&psig=AOvVaw3UbsewyD6LAuRJ-jlQJFAX&ust=1675201584629000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLDq1dDQ8fwCFQAAAAAdAAAAABAE)" align="center" style="width: 100%" />
+<img src="https://3.bp.blogspot.com/-Bmq3YncJceQ/WEu597N68vI/AAAAAAAAAq8/fk-l4f-Mrb02ZvSiH8SY6kfUg9doFgU9gCLcB/s1600/hello_world.gif" align="center" style="width: 100%" />
 </div>  
   
 
