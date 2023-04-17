@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jamil Ahmed, a MERN stack developer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working on [Social Media App](https://github.com/jamilahmed2/social-media-app)  
+- 🔭 I’m currently working on MERN STACK
   
 
 - 🌱 Always learning programming  
