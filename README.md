@@ -6,13 +6,13 @@
 ### <div align="center">I'm Jamil Ahmed, a MERN stack developer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working on MERN STACK
+- 🔭 I’m currently working on Digital Forensic & Cyber Security
   
 
-- 🌱 Always learning programming  
+- 🌱 Always learning   
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack & related technologies  
   
 
 - ⚡ Fun fact: Always Learning  
