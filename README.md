@@ -1,102 +1,94 @@
-<div align="center">
-<img src="https://miro.medium.com/max/1024/1*OohqW5DGh9CQS4hLY5FXzA.png" align="center" style="width: 100%" />
-</div>  
+<p align="center">
+  <a href="https://jamilahmed-portfolio.netlify.app/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/b9923beb-a0c6-4d3d-bc95-377f19d14298" alt="Jamil Ahmed Portfolio" width="600"/>
+  </a>
+</p>
+ 
   
-
-### <div align="center">I'm Jamil Ahmed, a MERN stack developer 👨‍💻🚀</div>  
-  
-
-- 🔭 I’m currently working on Digital Forensic & Cyber Security
-  
-
-- 🌱 Always learning   
-  
-
-- ❓ Ask me about anything related to MERN stack & related technologies  
-  
-
-- ⚡ Fun fact: Always Learning  
-  
-
 <br/>  
 
+## 🛡 Cybersecurity & Forensics
+<table>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/50/linux.png"/><br/>Linux</td>
+    <td align="center"><img src="https://img.icons8.com/fluency/48/000000/security-checked.png"/><br/>Digital Forensics</td>
+    <td align="center"><img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-penetration-hacking-flatart-icons-flat-flatarticons.png"/><br/>Penetration Testing</td>
+    <td align="center"><img src="https://img.icons8.com/fluency/48/000000/firewall.png"/><br/>Vulnerability Assessments</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/hacker.png"/><br/>Ethical Hacking</td>
+  </tr>
+</table>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<br/>
+
+## 💻 Development
+<table>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/c-programming.png"/><br/>C</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/><br/>C++</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/c-sharp-logo.png"/><br/>C#</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/python.png"/><br/>Python</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/javascript--v1.png"/><br/>JavaScript</td>
+    <td align="center"><img src="https://img.icons8.com/officel/48/php-logo.png"/><br/>PHP / Laravel</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/vue-js.png"/><br/>Vue.js</td>
+    <td align="center"><img src="https://img.icons8.com/officel/48/react.png"/><br/>React.js</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/nodejs.png"/><br/>Node.js</td>
+    <td align="center"><img src="https://img.icons8.com/ios/50/express-js.png"/><br/>Express.js</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/mongodb.png"/><br/>MongoDB</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/50/mysql-logo.png"/><br/>MySQL</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/html-5--v1.png"/><br/>HTML</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/css3.png"/><br/>CSS</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/tailwind_css.png"/><br/>Tailwind CSS</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/bootstrap.png"/><br/>Bootstrap</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/material-ui.png"/><br/>Material UI</td>
+    <td align="center"><img src="https://img.icons8.com/fluency/48/github.png"/><br/>GitHub</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/wordpress.png"/><br/>WordPress</td>
+  </tr>
+</table>
+
+<br/>
+
+## 🎨 Design & Tools
+<table>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/figma--v1.png"/><br/>Figma</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/adobe-illustrator--v1.png"/><br/>Illustrator</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png"/><br/>Photoshop</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/adobe-after-effects.png"/><br/>After Effects</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/adobe-lightroom.png"/><br/>Lightroom</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/adobe-premiere-pro.png"/><br/>Premiere Pro</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/canva.png"/><br/>Canva</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/microsoft-office-2019.png"/><br/>MS Office</td>
+  </tr>
+</table>
 
 
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
 
 </td></tr></table>  
 
 <br/>  
 
 
-## Connect with me  
+## 🌐 Connect with Me
+
 <div align="center">
-<a href="https://github.com/jamilahmed2" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/jamil-ahmed-54655220b" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/jimmi.prv" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/jamil.ahmed110" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <a href="https://github.com/jamilahmed2" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/jamil-ahmed-54655220b" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://jamilahmed-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 <br/>  
 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jamilahmed2&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
 
 <br/>  
 
@@ -107,12 +99,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jamilahmed2&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
