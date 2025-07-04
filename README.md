@@ -23,10 +23,10 @@
 ## 💻 Development
 <table>
   <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/c-programming.png"/><br/>C</td>
     <td align="center"><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/><br/>C++</td>
     <td align="center"><img src="https://img.icons8.com/color/48/c-sharp-logo.png"/><br/>C#</td>
     <td align="center"><img src="https://img.icons8.com/color/48/python.png"/><br/>Python</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/flutter.png"/><br/>Flutter</td>
     <td align="center"><img src="https://img.icons8.com/color/48/javascript--v1.png"/><br/>JavaScript</td>
     <td align="center"><img src="https://img.icons8.com/officel/48/php-logo.png"/><br/>PHP / Laravel</td>
     <td align="center"><img src="https://img.icons8.com/color/48/vue-js.png"/><br/>Vue.js</td>
